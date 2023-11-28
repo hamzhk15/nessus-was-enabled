@@ -1,8 +1,6 @@
-# nessus-was-enabled
+# Here is the steps you need to follow to download and install Ubuntu VM with Nessus and WAS module enabled
 
 This document will help prepare a Ubutu VM with Nessus and WAS-Module enabled acording to Tenable Documentation available at 28 Nov 2023
-
-# Here is the steps you need to follow to download and install Ubuntu VM with Nessus and WAS module enabled
 
 # Download Ubuntu 22.04.3 LTS from here: https://ubuntu.com/download/desktop
 

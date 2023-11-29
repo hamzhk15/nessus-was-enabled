@@ -5,13 +5,13 @@
 #### Install Ubuntu Desktop on new virtual machine – step by step guide can be found here: https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview
 
 #### Install curl tool: 
-```sudo snap install curl
+```sudo snap install curl```
 
 #### Download Nessus by run the following command: 
-```curl --request GET  --url 'https://www.tenable.com/downloads/api/v2/pages/nessus/files/Nessus-10.6.3-debian10_amd64.deb' --output 'Nessus-10.6.3-debian10_amd64.deb'
+```curl --request GET  --url 'https://www.tenable.com/downloads/api/v2/pages/nessus/files/Nessus-10.6.3-debian10_amd64.deb' --output 'Nessus-10.6.3-debian10_amd64.deb'```
 
 #### Install Nessus by run the following command: 
-```sudo dpkg -i Nessus-10.6.3-debian10_amd64.deb
+```sudo dpkg -i Nessus-10.6.3-debian10_amd64.deb```
 
 #### Install Docker as follows: 
 
@@ -27,4 +27,4 @@ sudo apt-get update
 ``` 
 
 #### Install docker 
-```sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+```sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin```
